@@ -1,0 +1,24 @@
+
+.step{
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.step:last-child{
+    flex-grow: 0;
+}
+
+.step-line{
+    border-top: 1px solid #4D4D4D;
+    flex-grow: 1;
+    margin: 0 5px;
+}
+
+.steps{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    width: 100%
+}
