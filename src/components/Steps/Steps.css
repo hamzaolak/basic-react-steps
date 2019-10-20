@@ -1,8 +1,35 @@
 
 .step{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     flex-grow: 1;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+
+.title{
+    font-size: 16px;
+    margin-top: 2px;
+    font-weight: 500;
+}
+
+.description{
+    font-size: 14px;
+    margin-top: 2px;
+    max-width: 200px;
+    text-align: justify;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
 }
 
 .step:last-child{
@@ -10,9 +37,8 @@
 }
 
 .step-line{
-    border-top: 1px solid #4D4D4D;
     flex-grow: 1;
-    margin: 0 5px;
+    margin: 16px 5px;
 }
 
 .steps{

@@ -1,11 +1,7 @@
 export const colors = {
-    purpleColor: "#E1D5E7",
-    purpleDarkColor: "#9673A6",
     tundora: "#4D4D4D",
     codGray: "#1A1A1A",
-    chelseaCucumber: "#82B366",
-    alabasterapprox: "#FBFBFB",
-    white: "#FFFFFF",
-    guardsmanRed: "#CC0000",
-    success: "#D5E8D4"
+    line:"#666666",
+    success: "#D5E8D4",
+    successDark: "#82B366"
 }

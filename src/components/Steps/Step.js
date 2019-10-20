@@ -2,12 +2,21 @@ import React from 'react'
 import './Steps.css';
 
 import { STATUS_ICON } from './constants'
+import { colors } from 'utils/theme';
 
-const Step = ({ status }) => {
+const Step = ({ status, title, description, ...rest }) => {
     return (
-        <div className="step">
-            {STATUS_ICON[status]}
-            <div className="step-line" style={{ borderTop: status === 'success' && '1px solid #D5E8D4' }} />
+        <div {...rest} className="step">
+            <div className="info">
+                <div className="icon">{STATUS_ICON[status]}</div>
+                {title && <div className="title" style={{color: colors.codGray}}>{title}</div>}
+                {description && <div className="description" style={{color: colors.tundora}}>{description}</div>}
+            </div>
+
+
+            <div
+                className="step-line"
+                style={{ borderTop: status === 'success' ? '1px solid ' + colors.success : "1px solid " + colors.line }} />
         </div>
     )
 }

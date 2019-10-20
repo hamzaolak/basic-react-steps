@@ -1,11 +1,11 @@
 import React, { cloneElement, Children } from 'react'
 import './Steps.css';
 
-const Steps = ({ children, stepNumber }) => {
+const Steps = ({ children, stepNumber, ...rest}) => {
     const filteredChildren = React.Children.toArray(children).filter(child => !!child);
 
     return (
-        <div className="steps">
+        <div {...rest} className="steps" >
             {Children.map(filteredChildren, (child, index) => {
                 const stepStatus = (stepNumber > index && 'success')
                     || (stepNumber === index && 'current')

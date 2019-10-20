@@ -1,8 +1,9 @@
 import React from 'react'
-import { Check, Here, Circle } from 'components/icons'
+import { Check, Circle } from 'components/icons'
+import { colors } from 'utils/theme'
 
 export const STATUS_ICON = {
     "success": <Check />,
-    "current": <Here />,
+    "current": <Circle fill={colors.successDark} color={colors.success} r={5}/>,
     "wait": <Circle />
 }
