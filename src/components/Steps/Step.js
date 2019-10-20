@@ -1,8 +1,8 @@
 import React from 'react'
-import './Steps.css';
+import './Step.css';
 
 import { STATUS_ICON } from './constants'
-import { colors } from 'utils/theme';
+import { colors } from '../../utils/theme';
 
 const Step = ({ status, title, description, ...rest }) => {
     return (

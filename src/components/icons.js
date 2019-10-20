@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { colors } from 'utils/theme.js'
+import { colors } from '../utils/theme.js'
 
 export const Circle = ({
     fill = "transparent",

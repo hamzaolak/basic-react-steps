@@ -1,2 +1,2 @@
-export { default as Steps } from './Steps'
+export { default as StepList } from './StepList'
 export { default as Step } from './Step'

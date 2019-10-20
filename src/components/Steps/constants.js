@@ -1,6 +1,7 @@
 import React from 'react'
-import { Check, Circle } from 'components/icons'
-import { colors } from 'utils/theme'
+
+import { Check, Circle } from '../../components/icons'
+import { colors } from '../../utils/theme'
 
 export const STATUS_ICON = {
     "success": <Check />,
