@@ -1,31 +1,42 @@
 {
-  "name": "basic-react-steps",
-  "version": "0.1.2",
-  "main": "build/index.js",
-  "peerDependencies": {
-    "react": "^15.5.4"
-  },
-  "dependencies": {
-    "react": "^15.5.4",
-    "webpack": "^2.6.1"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack --watch",
-    "build": "webpack"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-core": "^6.24.1",
-    "babel-loader": "^7.0.0",
-    "babel-plugin-transform-object-rest-spread": "^6.23.0",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.5.1",
-    "css-loader": "^3.2.0",
-    "style-loader": "^1.0.0"
-  },
-  "author": {
-    "name": "Hamza OLAK",
-    "email": "hamzaolak2@gmail.com"
-  }
+    "name": "basic-react-steps",
+    "version": "0.1.5",
+    "main": "build/index.js",
+    "peerDependencies": {
+        "react": "^15.5.4"
+    },
+    "dependencies": {
+        "react": "^15.5.4",
+        "webpack": "^2.6.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack --watch",
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.24.1",
+        "babel-core": "^6.24.1",
+        "babel-loader": "^7.0.0",
+        "babel-plugin-transform-object-rest-spread": "^6.23.0",
+        "babel-plugin-transform-react-jsx": "^6.24.1",
+        "babel-preset-env": "^1.5.1",
+        "css-loader": "^3.2.0",
+        "style-loader": "^1.0.0"
+    },
+    "author": {
+        "name": "Hamza OLAK",
+        "email": "hamzaolak2@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hamzaolak/basic-react-steps"
+    },
+    "keywords": [
+        "react",
+        "steps",
+        "step",
+        "basic",
+        "step by step"
+    ]
 }

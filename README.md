@@ -1,6 +1,8 @@
 ### basic-react-steps
+![npm](https://img.shields.io/npm/v/basic-react-steps)
+[![GitHub license](https://img.shields.io/github/license/hamzaolak/basic-react-steps)](https://github.com/hamzaolak/basic-react-steps/blob/master/LICENSE)
 
-####Steps for usage
+### Steps for usage
 
 1. install package
 `$ npm install basic-react-steps`
@@ -18,16 +20,17 @@ import { Step, StepList } from 'basic-react-steps'
 ```
 
 
-###StepList Component
-Props  | Necessity | Type| Description
-------------- | -------------
-stepNumber | compulsory |number | Select the which child is active...start with 0 .
+### StepList Component
 
-###Step Component
-Props  | Necessity | Type| Description
-------------- | -------------
-title | optional |String | Step Title
-description | optional | String | Step Description
+| Props  | Necessity  | Type  | Description  |
+| ------------ | ------------ | ------------ | ------------ |
+| stepNumber  | compulsory  | number |  Select the which child is active...start with 0. |
+
+### Step Component
+
+| Props  | Necessity  |  Type | Description  |
+| ------------ | ------------ | ------------ | ------------ |
+| title  |  optional | String  | Step Title  |
+| description  | optional  | String  | Step Description  |
 
 contact: hamzaolak2@gmail.com
-
