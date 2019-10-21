@@ -1,5 +1,5 @@
 ### basic-react-steps
-![npm](https://img.shields.io/npm/v/basic-react-steps)
+[![npm](https://img.shields.io/npm/v/basic-react-steps)](https://www.npmjs.com/package/basic-react-steps)
 [![GitHub license](https://img.shields.io/github/license/hamzaolak/basic-react-steps)](https://github.com/hamzaolak/basic-react-steps/blob/master/LICENSE)
 
 ### Steps for usage
@@ -32,5 +32,8 @@ import { Step, StepList } from 'basic-react-steps'
 | ------------ | ------------ | ------------ | ------------ |
 | title  |  optional | String  | Step Title  |
 | description  | optional  | String  | Step Description  |
+
+### Example
+![](https://i.ibb.co/7gjgGqv/Ekran-Resmi-2019-10-21-21-47-21.png)
 
 contact: hamzaolak2@gmail.com
