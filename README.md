@@ -11,10 +11,10 @@
 import { Step, StepList } from 'basic-react-steps'
 ...
 <StepList stepNumber={0}>
-		<Step title="title" description="description"/>
-		<Step />
-		<Step />
-		<Step />
+	<Step title="title" description="description"/>
+	<Step />
+	<Step />
+	<Step />
 </StepList>
 ...
 ```
@@ -34,6 +34,6 @@ import { Step, StepList } from 'basic-react-steps'
 | description  | optional  | String  | Step Description  |
 
 ### Example
-![](https://i.ibb.co/7gjgGqv/Ekran-Resmi-2019-10-21-21-47-21.png)
+![](https://i.ibb.co/vwCtFmQ/Ekran-Resmi-2019-10-21-22-01-52.png)
 
 contact: hamzaolak2@gmail.com

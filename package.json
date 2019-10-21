@@ -1,6 +1,6 @@
 {
     "name": "basic-react-steps",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "main": "build/index.js",
     "peerDependencies": {
         "react": "^15.5.4"
