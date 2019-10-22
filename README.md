@@ -1,4 +1,7 @@
 ### basic-react-steps
+
+React steps component.
+
 [![npm](https://img.shields.io/npm/v/basic-react-steps)](https://www.npmjs.com/package/basic-react-steps)
 [![GitHub license](https://img.shields.io/github/license/hamzaolak/basic-react-steps)](https://github.com/hamzaolak/basic-react-steps/blob/master/LICENSE)
 

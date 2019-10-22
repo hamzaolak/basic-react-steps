@@ -1,7 +1,7 @@
 .steps{
     display: flex;
     flex-flow: row;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: nowrap;
     width: 100%
 }
