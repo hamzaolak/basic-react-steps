@@ -7,7 +7,7 @@ const StepList = ({ children, stepNumber, ...rest}) => {
     return (
         <div {...rest} className="steps" >
             {Children.map(filteredChildren, (child, index) => {
-                const stepStatus = (stepNumber > index && 'success')
+                const stepStatus = (stepNumber > index && 'finish')
                     || (stepNumber === index && 'current')
                     || 'wait';
                 const childProps = {

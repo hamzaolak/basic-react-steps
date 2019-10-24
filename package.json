@@ -1,6 +1,6 @@
 {
     "name": "basic-react-steps",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "main": "build/index.js",
     "peerDependencies": {
         "react": "^15.5.4"
@@ -28,7 +28,7 @@
         "name": "Hamza OLAK",
         "email": "hamzaolak2@gmail.com"
     },
-    "license": "ISC",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/hamzaolak/basic-react-steps"
@@ -38,9 +38,9 @@
     },
     "keywords": [
         "react",
-        "steps",
-        "step",
-        "basic",
-        "step by step"
+        "react-component",
+        "react-steps",
+        "basic-react-steps",
+        "component"
     ]
 }
