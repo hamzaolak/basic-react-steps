@@ -7,6 +7,8 @@ React steps component.
 ![npm bundle size](https://img.shields.io/bundlephobia/min/basic-react-steps)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hamzaolak/basic-react-steps)
 
+Example: https://hamzaolak.github.io/basic-react-steps/
+
 ### Steps for usage
 
 1. install package
