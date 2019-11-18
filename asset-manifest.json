@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/basic-react-steps/static/css/main.34de6062.chunk.css",
-    "main.js": "/basic-react-steps/static/js/main.1f9def9b.chunk.js",
-    "main.js.map": "/basic-react-steps/static/js/main.1f9def9b.chunk.js.map",
-    "runtime-main.js": "/basic-react-steps/static/js/runtime-main.bd9b4eda.js",
-    "runtime-main.js.map": "/basic-react-steps/static/js/runtime-main.bd9b4eda.js.map",
-    "static/js/2.9e530cdc.chunk.js": "/basic-react-steps/static/js/2.9e530cdc.chunk.js",
-    "static/js/2.9e530cdc.chunk.js.map": "/basic-react-steps/static/js/2.9e530cdc.chunk.js.map",
-    "index.html": "/basic-react-steps/index.html",
-    "precache-manifest.9e6a2095da6da69f0a539be94b4ad584.js": "/basic-react-steps/precache-manifest.9e6a2095da6da69f0a539be94b4ad584.js",
+    "main.js": "/basic-react-steps/main.26bcd0a92134bc995a53.bundle.js",
+    "main.js.map": "/basic-react-steps/main.26bcd0a92134bc995a53.bundle.js.map",
+    "runtime~main.js": "/basic-react-steps/runtime~main.26bcd0a92134bc995a53.bundle.js",
+    "runtime~main.js.map": "/basic-react-steps/runtime~main.26bcd0a92134bc995a53.bundle.js.map",
+    "vendors~main.js": "/basic-react-steps/vendors~main.26bcd0a92134bc995a53.bundle.js",
+    "vendors~main.js.map": "/basic-react-steps/vendors~main.26bcd0a92134bc995a53.bundle.js.map",
+    "iframe.html": "/basic-react-steps/iframe.html",
+    "precache-manifest.b57bab885f2028d0a1c815d573082be3.js": "/basic-react-steps/precache-manifest.b57bab885f2028d0a1c815d573082be3.js",
     "service-worker.js": "/basic-react-steps/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/basic-react-steps/static/css/main.34de6062.chunk.css.map",
-    "static/media/shield.svg": "/basic-react-steps/static/media/shield.f4b0d136.svg",
-    "static/media/worth-the-wait.svg": "/basic-react-steps/static/media/worth-the-wait.d801359d.svg"
+    "static/media/orbit.svg": "/basic-react-steps/static/media/orbit.96d00d74.svg",
+    "static/media/telescope.svg": "/basic-react-steps/static/media/telescope.7acd970f.svg",
+    "static/media/ufo.svg": "/basic-react-steps/static/media/ufo.69408d2e.svg",
+    "static/media/uranus.svg": "/basic-react-steps/static/media/uranus.917a78ff.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd9b4eda.js",
-    "static/js/2.9e530cdc.chunk.js",
-    "static/css/main.34de6062.chunk.css",
-    "static/js/main.1f9def9b.chunk.js"
+    "runtime~main.26bcd0a92134bc995a53.bundle.js",
+    "vendors~main.26bcd0a92134bc995a53.bundle.js",
+    "main.26bcd0a92134bc995a53.bundle.js"
   ]
 }
