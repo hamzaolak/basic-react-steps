@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/basic-react-steps/main.1dc9bc4465bc4b0e03e2.bundle.js",
-    "main.js.map": "/basic-react-steps/main.1dc9bc4465bc4b0e03e2.bundle.js.map",
-    "runtime~main.js": "/basic-react-steps/runtime~main.1dc9bc4465bc4b0e03e2.bundle.js",
-    "runtime~main.js.map": "/basic-react-steps/runtime~main.1dc9bc4465bc4b0e03e2.bundle.js.map",
-    "vendors~main.js": "/basic-react-steps/vendors~main.1dc9bc4465bc4b0e03e2.bundle.js",
-    "vendors~main.js.map": "/basic-react-steps/vendors~main.1dc9bc4465bc4b0e03e2.bundle.js.map",
+    "main.js": "/basic-react-steps/main.1e1a113d1b151c78e58f.bundle.js",
+    "main.js.map": "/basic-react-steps/main.1e1a113d1b151c78e58f.bundle.js.map",
+    "runtime~main.js": "/basic-react-steps/runtime~main.1e1a113d1b151c78e58f.bundle.js",
+    "runtime~main.js.map": "/basic-react-steps/runtime~main.1e1a113d1b151c78e58f.bundle.js.map",
+    "vendors~main.js": "/basic-react-steps/vendors~main.1e1a113d1b151c78e58f.bundle.js",
+    "vendors~main.js.map": "/basic-react-steps/vendors~main.1e1a113d1b151c78e58f.bundle.js.map",
     "iframe.html": "/basic-react-steps/iframe.html",
-    "precache-manifest.55e6634990aaed94c279f82bee2d21de.js": "/basic-react-steps/precache-manifest.55e6634990aaed94c279f82bee2d21de.js",
+    "precache-manifest.af6d34fdeb7061f0f4c997e49076561b.js": "/basic-react-steps/precache-manifest.af6d34fdeb7061f0f4c997e49076561b.js",
     "service-worker.js": "/basic-react-steps/service-worker.js",
     "static/media/orbit.svg": "/basic-react-steps/static/media/orbit.96d00d74.svg",
     "static/media/telescope.svg": "/basic-react-steps/static/media/telescope.7acd970f.svg",
@@ -15,8 +15,8 @@
     "static/media/uranus.svg": "/basic-react-steps/static/media/uranus.917a78ff.svg"
   },
   "entrypoints": [
-    "runtime~main.1dc9bc4465bc4b0e03e2.bundle.js",
-    "vendors~main.1dc9bc4465bc4b0e03e2.bundle.js",
-    "main.1dc9bc4465bc4b0e03e2.bundle.js"
+    "runtime~main.1e1a113d1b151c78e58f.bundle.js",
+    "vendors~main.1e1a113d1b151c78e58f.bundle.js",
+    "main.1e1a113d1b151c78e58f.bundle.js"
   ]
 }
