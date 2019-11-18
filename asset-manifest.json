@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/basic-react-steps/static/css/main.34de6062.chunk.css",
-    "main.js": "/basic-react-steps/static/js/main.2dc9710d.chunk.js",
-    "main.js.map": "/basic-react-steps/static/js/main.2dc9710d.chunk.js.map",
+    "main.js": "/basic-react-steps/static/js/main.1f9def9b.chunk.js",
+    "main.js.map": "/basic-react-steps/static/js/main.1f9def9b.chunk.js.map",
     "runtime-main.js": "/basic-react-steps/static/js/runtime-main.bd9b4eda.js",
     "runtime-main.js.map": "/basic-react-steps/static/js/runtime-main.bd9b4eda.js.map",
     "static/js/2.9e530cdc.chunk.js": "/basic-react-steps/static/js/2.9e530cdc.chunk.js",
     "static/js/2.9e530cdc.chunk.js.map": "/basic-react-steps/static/js/2.9e530cdc.chunk.js.map",
     "index.html": "/basic-react-steps/index.html",
-    "precache-manifest.a5eb80831a83d7d46d7602ad19935776.js": "/basic-react-steps/precache-manifest.a5eb80831a83d7d46d7602ad19935776.js",
+    "precache-manifest.9e6a2095da6da69f0a539be94b4ad584.js": "/basic-react-steps/precache-manifest.9e6a2095da6da69f0a539be94b4ad584.js",
     "service-worker.js": "/basic-react-steps/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/basic-react-steps/static/css/main.34de6062.chunk.css.map",
     "static/media/shield.svg": "/basic-react-steps/static/media/shield.f4b0d136.svg",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bd9b4eda.js",
     "static/js/2.9e530cdc.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.2dc9710d.chunk.js"
+    "static/js/main.1f9def9b.chunk.js"
   ]
 }
