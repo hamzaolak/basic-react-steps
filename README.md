@@ -19,15 +19,19 @@ Example: https://hamzaolak.github.io/basic-react-steps/
 
 ```javascript
 import { Step, StepList } from 'basic-react-steps'
+import ExampleIcon from './ExampleIcon'
 ...
 <StepList stepNumber={0}>
 	<Step title="title" description="description"/>
-	<Step icon={<ExampleIcon />}/>
+	<Step icon={<img alt="ExampleIcon" src={ExampleIcon} />}/>
 	<Step />
 	<Step />
 </StepList>
 ...
 ```
+
+if you use react-svg-loader you can use icon this way:
+```icon={<ExampleIcon />}```
 
 
 ### StepList Component
